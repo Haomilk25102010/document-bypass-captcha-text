@@ -1,0 +1,1 @@
+# document-bypass-captcha-text
